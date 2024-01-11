@@ -8,7 +8,7 @@ aliases:
   - 메모
   - 깃허브
 date created: 2023-12-06, 01:18
-date modified: 2024-01-08T04:25:00
+date modified: 2024-01-08, 23:50
 share: "true"
 githubtitle: 2024-01-08-GitHub Pages_퍼블리시1_제목변경
 permalink: githubpages-publish1
