@@ -11,7 +11,7 @@ aliases:
   - 깃허브
   - 퍼블리시
 date created: 2023-12-06, 00:54
-date modified: 2023-12-30, 19:14
+date modified: 2024-01-11, 09:26
 share: "true"
 githubtitle: 2023-12-06-GitHub Pages_퍼블리시2
 permalink: publish2
@@ -25,6 +25,8 @@ github: true
 # 첫 포스팅 from Obsidian
 - 왜 옵시디언에서 올린 파일이 퍼블리시가 안 될까?
 - 이미 퍼블리시가 된 파일은 업데이트가 된다.
+- 퍼블리시 안 되는 노트는 뭐가 다르지?
+
 <br>
 
 # 내 생각
